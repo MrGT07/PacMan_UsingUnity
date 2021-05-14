@@ -15,5 +15,7 @@ A - Move Left
 D - Move Right
 Esc - Menu
 
-You can check screen shots in ScreenShot folder. Happy Gaming :)
+You can check screen shots in ScreenShot folder. 
+Happy Gaming :)
+
 Reference: https://noobtuts.com/unity/2d-pacman-game
